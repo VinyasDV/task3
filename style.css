@@ -1,0 +1,55 @@
+fieldset{
+    border: 2px solid gray;
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    background: linear-gradient(rgb(135, 194, 212),rgb(174, 253, 174),rgb(241, 241, 143),rgb(255, 209, 216));
+}
+.person{
+    border: 2px solid black;
+    width: 250px;
+    color: aliceblue;
+    background-color: rgb(212, 151, 76);
+}
+.book{
+    border: 2px solid rgb(81, 74, 74);
+    width: 400px;
+    height: 210px;
+    color: aliceblue;
+    border-radius: 20px;
+    background: linear-gradient();
+}
+.name{
+    border: 2px solid gray;
+    margin-right: 220px;
+    margin-top: 10px;
+    width: 130px;
+}
+.clg{
+    border: 2px solid gray;
+    margin-right: 220px;
+    width: 130px;
+}
+.age{
+    border: 2px solid gray;
+    margin-right: 220px;
+    width: 130px;
+}
+.gender{
+    border: 2px solid gray;
+    margin-right: 220px;
+    width: 130px;
+}
+.address{
+    border: 2px solid gray;
+    margin-right: 220px;
+    width: 130px;
+}
+img{
+    position: absolute;
+    border: 2px solid gray;
+    width: 170px;
+    height: 120px;
+    clip-path: ellipse(50% 40%);
+    margin-top: -150px;
+}
